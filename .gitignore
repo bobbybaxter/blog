@@ -2,3 +2,6 @@
 node_modules/*
 release/*
 *.swp
+package-lock.json
+dist/
+build/
