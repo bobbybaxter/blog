@@ -106,25 +106,5 @@
     <!-- CMS.js -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.12/es5-shim.min.js"></script>
     <script src="../js/cms.js"></script>
-    <script>
-    var blog = new CMS({
-      elementId: 'cms',
-      mode: 'GITHUB',
-      github: {
-        username: 'chrisdiana',
-        repo: 'cms.js-themes',
-        branch: 'master',
-        host: 'https://api.github.com',
-        prefix: 'templates',
-      },
-      layoutDirectory: 'layouts/bootstrap-blog',
-      errorLayout: 'error',
-      defaultView: 'posts',
-      types: [
-        { name: 'posts', layout: { list: 'post-list', single: 'post' }},
-        { name: 'pages', layout: { list: 'page-list', single: 'page' }},
-      ],
-    });
-    </script>
   </body>
 </html>
