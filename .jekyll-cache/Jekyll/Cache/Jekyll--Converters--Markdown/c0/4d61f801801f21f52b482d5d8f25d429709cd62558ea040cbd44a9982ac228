@@ -1,0 +1,34 @@
+I"[<ul class="tags-box">
+
+
+<a href="#programming" title="programming" rel="1">programming<span class="size"> 1</span></a>
+
+<a href="#ruby" title="ruby" rel="1">ruby<span class="size"> 1</span></a>
+
+<a href="#jekyll" title="jekyll" rel="1">jekyll<span class="size"> 1</span></a>
+
+</ul>
+
+<ul class="tags-box">
+
+<li id="programming">programming</li>
+
+<time datetime="2019-12-21">2019-12-21</time> &raquo;
+<a href="/blog/programming/2019/12/21/Blog-setup.html" title="Blog setup">Blog setup</a><br />
+
+
+<li id="ruby">ruby</li>
+
+<time datetime="2019-12-21">2019-12-21</time> &raquo;
+<a href="/blog/programming/2019/12/21/Blog-setup.html" title="Blog setup">Blog setup</a><br />
+
+
+<li id="jekyll">jekyll</li>
+
+<time datetime="2019-12-21">2019-12-21</time> &raquo;
+<a href="/blog/programming/2019/12/21/Blog-setup.html" title="Blog setup">Blog setup</a><br />
+
+
+
+</ul>
+:ET
