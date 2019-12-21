@@ -1,0 +1,13 @@
+I" <h2 id="how-to-install-freshman-theme">How to install Freshman theme?</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># please make sure you have already installed git tools and ruby tools(gem)</span>
+<span class="nv">$ </span>gem <span class="nb">install </span>sass
+<span class="nv">$ </span>gem <span class="nb">install </span>jekyll
+<span class="nv">$ </span>git clone https://github.com/yulijia/freshman21.git
+</code></pre></div></div>
+
+<p>Then, change the folder name to you own github page name, forexample</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="nv">$ </span><span class="nb">mv </span>freshman thisisyouname.github.io
+</code></pre></div></div>
+:ET
