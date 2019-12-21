@@ -1,0 +1,48 @@
+I"<p>After a few false starts, I’ve finally started this blog to document my projects.  My hope is that I’ll use this as a reference point and/or brain-dump for my various ideas and side projects.  This blog being the first I’m documenting.</p>
+
+<p>I initially tried to use CMS.js, but it was just too difficult to customize.  I was looking for a simple lightweight with very little maintenance after setup.  Jekyll/Gihub Pages seems to be my best option.  The setup was pretty simple.  I had to update Ruby on my computer, which I hadn’t touched in years, and I styled the site to look like my Portfolio.  Now, all I need to do is create posts in Github.  We’re off to a good start.  Now, time to move on to more interesting things.</p>
+
+<p>This is a sample post.</p>
+
+<p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
+
+<h2 id="heading">Heading</h2>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+</code></pre></div></div>
+
+<h2 id="body-text">Body text</h2>
+
+<p><strong>This is strong</strong>.</p>
+
+<p>This is figure</p>
+
+<p><img src="https://i.imgur.com/Mdc4szJl.jpg" alt="Elaphurus davidianus" title="Père David's deer" /></p>
+
+<p><em>This is emphasized</em>.</p>
+
+<p>53 = 125. Water is H<sub>2</sub>O.</p>
+
+<p>The New York Times <cite>(That’s a citation)</cite>.</p>
+
+<p><u>Underline</u>.</p>
+
+<p><del>HTML and CSS are our tools</del>.</p>
+
+<h2 id="blockquotes">Blockquotes</h2>
+
+<blockquote>
+  <p>Justification:
+This species is listed as Extinct in the Wild, as all populations are still under captive management. The captive population in China has increased in recent years, and the possibility remains that free-ranging populations can be established some time in the near future. When that happens, its Red List status will need to be reassessed.</p>
+</blockquote>
+
+<blockquote>
+  <p>I follow up the quest. Despite of day and night and dea</p>
+</blockquote>
+:ET

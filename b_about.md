@@ -6,22 +6,11 @@ permalink: /about/
 ---
 
 
-### Freshman21 is a Jekyll theme.
+### Jack-of-all-trades web developer with a passion for solving problems..
 
-A tribute to Twenty Twelve and Twenty eleven.
+I’m a jack-of-all-trades: Army Veteran, English Teacher, Musician, Veteran's Rep, Screen Printer, Paralegal, etc. My diverse background has helped me learn that I’m happiest when I’m able to use both my logical and creative sides as one. Being a developer bridges that gap for me.
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
-
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
-
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
-
-![麋鹿](https://i.imgur.com/Mdc4szJl.jpg){: .img-about}
-
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
-
-Milu(麋鹿) is the chinese name of Père David's deer.
+I’ve always developed tools at work to automate tasks, collect data, and increase my productivity. I finally started connecting the dots when I realized planning and building these tools satisfied me more than the work itself. Thus, my journey as a developer began.
 
 
 

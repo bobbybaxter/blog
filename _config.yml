@@ -43,6 +43,7 @@ locales:
       Home: "Home"
       About: "About"
       Portfolio: "Portfolio"
+      Music: "Music"
       # Subscribe: "Subscribe"
     cn:
       Aboutme: "关于我"

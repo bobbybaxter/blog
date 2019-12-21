@@ -1,0 +1,85 @@
+I"*<ul class="tags-box">
+
+
+<a href="#sample-post" title="sample-post" rel="2">sample-post<span class="size"> 2</span></a>
+
+<a href="#structure" title="structure" rel="1">structure<span class="size"> 1</span></a>
+
+<a href="#configure" title="configure" rel="1">configure<span class="size"> 1</span></a>
+
+<a href="#version" title="version" rel="1">version<span class="size"> 1</span></a>
+
+<a href="#new features" title="new features" rel="1">new features<span class="size"> 1</span></a>
+
+<a href="#google analytics" title="google analytics" rel="1">google analytics<span class="size"> 1</span></a>
+
+<a href="#google search" title="google search" rel="1">google search<span class="size"> 1</span></a>
+
+<a href="#back to top" title="back to top" rel="1">back to top<span class="size"> 1</span></a>
+
+<a href="#read more" title="read more" rel="1">read more<span class="size"> 1</span></a>
+
+</ul>
+
+<ul class="tags-box">
+
+<li id="sample-post">sample-post</li>
+
+<time datetime="2014-12-18">2014-12-18</time> &raquo;
+<a href="/blog/articles/2014/12/18/how-to-install.html" title="How to install this theme">How to install this theme</a><br />
+
+<time datetime="2014-12-13">2014-12-13</time> &raquo;
+<a href="/blog/articles/2014/12/13/simple-post.html" title="Sample Post">Sample Post</a><br />
+
+
+<li id="structure">structure</li>
+
+<time datetime="2014-12-19">2014-12-19</time> &raquo;
+<a href="/blog/articles/howto/2014/12/19/freshman21-structure.html" title="Theme structure">Theme structure</a><br />
+
+
+<li id="configure">configure</li>
+
+<time datetime="2014-12-19">2014-12-19</time> &raquo;
+<a href="/blog/articles/howto/2014/12/19/how-to-set-the-config-file.html" title="How to set the config.yml file">How to set the config.yml file</a><br />
+
+
+<li id="version">version</li>
+
+<time datetime="2015-03-31">2015-03-31</time> &raquo;
+<a href="/blog/news/2015/03/31/2.0version.html" title="2.0 version">2.0 version</a><br />
+
+
+<li id="new features">new features</li>
+
+<time datetime="2015-03-31">2015-03-31</time> &raquo;
+<a href="/blog/news/2015/03/31/2.0version.html" title="2.0 version">2.0 version</a><br />
+
+
+<li id="google analytics">google analytics</li>
+
+<time datetime="2015-03-31">2015-03-31</time> &raquo;
+<a href="/blog/news/2015/03/31/2.0version.html" title="2.0 version">2.0 version</a><br />
+
+
+<li id="google search">google search</li>
+
+<time datetime="2015-03-31">2015-03-31</time> &raquo;
+<a href="/blog/news/2015/03/31/2.0version.html" title="2.0 version">2.0 version</a><br />
+
+
+<li id="back to top">back to top</li>
+
+<time datetime="2015-03-31">2015-03-31</time> &raquo;
+<a href="/blog/news/2015/03/31/2.0version.html" title="2.0 version">2.0 version</a><br />
+
+
+<li id="read more">read more</li>
+
+<time datetime="2015-03-31">2015-03-31</time> &raquo;
+<a href="/blog/news/2015/03/31/2.0version.html" title="2.0 version">2.0 version</a><br />
+
+
+
+</ul>
+:ET
