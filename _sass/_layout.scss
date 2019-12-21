@@ -163,6 +163,8 @@
 .post-link {
   display: block;
   font-size: 38px;//42px;
+  font-weight: 700;
+  color: #4A90E2;
 }
 
 /**
@@ -181,9 +183,11 @@
   font-size: 38px;//42px;
   letter-spacing: -1px;
   line-height: 1;
+  font-weight: 700;
+  color: #4A90E2;
 
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 38px;
   }
 }
 
@@ -216,7 +220,7 @@
   p { padding:$spacing-unit/5 0; } 
   //margin-bottom: $spacing-unit;
   h1 { 
-    font-size: 38px;
+    font-size: 36px;
     line-height:1em;
     @include media-query($on-laptop){
       font-size: 36px;
@@ -224,28 +228,28 @@
 
   }
   h2 {
-    font-size: 32px;
+    font-size: 30px;
     line-height:1em;
     @include media-query($on-laptop) {
-      font-size: 28px;
+      font-size: 26px;
     }
   }
 
   h3 {
-    font-size: 26px;
+    font-size: 24px;
     line-height:1em;
 
     @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 20px;
     }
   }
 
   h4 {
-    font-size: 20px;
+    font-size: 18px;
     line-height:1em;
 
     @include media-query($on-laptop) {
-      font-size: 18px;
+      font-size: 16px;
     }
   }
 }
@@ -282,11 +286,12 @@
 }
 
 
-/*time style of tages and categories*/
+/*time style of tags and categories*/
 
 time{
   margin-left: 15px;
-  font-style: italic;
+  color: $grey-color;
+  // font-style: italic;
 }
 
 

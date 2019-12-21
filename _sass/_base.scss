@@ -129,7 +129,8 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 300;
+  color: #4A90E2;
+  font-weight: 500;
 }
 
 
@@ -142,11 +143,12 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-top-color, 25%);
+    color: darken($brand-top-color, 10%);
   }
 
   &:hover {
-    color: #669900; //$hover-color;
+    // color: #669900; //$hover-color;
+    color: #4A90E2; //$hover-color;
     text-decoration: underline;
   }
 }
@@ -157,7 +159,7 @@ a {
   text-decoration: none;  
   border-bottom: 1px dotted;
   &:visited {             
-    color: darken($brand-color, 25%);
+    color: darken($brand-color, 10%);
   }                       
 
   &:hover {               

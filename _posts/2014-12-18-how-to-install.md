@@ -3,7 +3,7 @@ layout: post
 title: How to install this theme
 categories: articles
 tags: [sample-post]
-comments: true
+comments: false
 description: How to install this theme, follow steps, very easy!
 ---
 

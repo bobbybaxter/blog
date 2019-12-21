@@ -13,8 +13,9 @@ locale: en_US
 
 ### Personal info and site tools info:
 github_username:  bobbybaxter
+portfolio: "https://bobbybaxter.github.io"
 favicon:     "/images/favicon.ico"
-aboutme: Hi, I'm Bob Baxter. # these are shown on aboutme-sidebar.
+aboutme: I'm a software developer, musician, and all-around nerd. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
 google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
@@ -41,8 +42,8 @@ locales:
       Google_search: "Site Search"
       Home: "Home"
       About: "About"
-      Guestbook: "Guestbook"
-      Subscribe: "Subscribe"
+      Portfolio: "Portfolio"
+      # Subscribe: "Subscribe"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
@@ -59,8 +60,8 @@ locales:
       Google_search: "站内搜索"
       Home: "首页"
       About: "关于"
-      Guestbook: "留言"
-      Subscribe: "订阅"
+      Portfolio: "作品集"
+      # Subscribe: "订阅"
     jp:
       Aboutme: "著者"
       Archives: "アーカイブ"
@@ -77,8 +78,8 @@ locales:
       Google_search: "サイト内検索"
       Home: "ホーム"
       About: "このブログについて"
-      Guestbook: "メッセージ"
-      Subscribe: "購読"
+      Portfolio: "ポートフォリオ"
+      # Subscribe: "購読"
     pl:
       Aboutme: "O mnie"
       Archives: "Archiwum"
@@ -95,8 +96,8 @@ locales:
       Google_search: "Wyszukiwarka"
       Home: "Strona główna"
       About: "O mnie"
-      Guestbook: "Księga gości"
-      Subscribe: "Subskrypcja"
+      Portfolio: "Teczka"
+      # Subscribe: "Subskrypcja"
     kr:
       Aboutme: "저자 소개"
       Archives: "모든 게시물"
@@ -113,8 +114,8 @@ locales:
       Google_search: "게시물 검색"
       Home: "홈"
       About: "소개"
-      Guestbook: "방명록"
-      Subscribe: "구독하기"
+      Portfolio: "포트폴리오"
+      # Subscribe: "구독하기"
     ru:
       Aboutme: "Обо мне" # = 'About me'
       Archives: "Архив"
@@ -131,8 +132,8 @@ locales:
       Google_search: "Поиск на Google"
       Home: "Домой"
       About: "О блоге"            # = 'About blog'
-      Guestbook: "Гостевая книга"
-      Subscribe: "Подписаться"
+      Portfolio: "портфолио"
+      # Subscribe: "Подписаться"
     tr:
       Aboutme: "Hakkımda"
       Archives: "Arşivler"
@@ -149,8 +150,8 @@ locales:
       Google_search: "Sitede Ara"
       Home: "Anasayfa"
       About: "Hakkında"
-      Guestbook: "Konuk Defteri"
-      Subscribe: "Abone Ol"
+      Portfolio: "Portföy"
+      # Subscribe: "Abone Ol"
     id:
       Aboutme: "Tentang Saya"
       Archives: "Arsip"
@@ -167,8 +168,8 @@ locales:
       Google_search: "Pencarian Situs"
       Home: "Beranda"
       About: "Tentang"
-      Guestbook: "Buku tamu"
-      Subscribe: "Langganan"
+      Portfolio: "Portofolio"
+      # Subscribe: "Langganan"
 
 ### your Blogroll info, only name can shown on the page.
 

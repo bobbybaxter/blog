@@ -5,7 +5,7 @@ modified: 2014-12-19
 categories: [articles, Howto]
 tags: 
   - structure
-comments: true
+comments: false
 ---
 
 

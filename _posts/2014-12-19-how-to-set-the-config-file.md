@@ -5,7 +5,7 @@ modified: 2014-12-19
 categories: [articles, Howto]
 tags: 
   - configure
-comments: true
+comments: false
 ---
 
 The [config.yml file](https://github.com/yulijia/freshman21/blob/master/_config.yml) in the Freshman21 theme includes five parts. 
