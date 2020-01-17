@@ -9,13 +9,13 @@ tags:
 - SWGOH Counters
 ---
 
-## What is SWGOH Counters?
+### What is SWGOH Counters?
 A Companion app for the mobile game Star Wars: Galaxy of Heroes, SWGOH Counters, built with React.js and using the Google Sheets API as a server. This application is used as a reference guide for players to look up which teams are best to use against teams they are battling. This app currently has an average of over 45,000 users and 420,000 pageviews per month.
 
-## Why this project for my Back End Capstone?
+### Why this project for my Back End Capstone?
 I built SWGOH Counters as my Front End Capstone at Nashville Software School.  Due to its popularity in the game's community, I wanted to take the opportunity to develop the server side.
 
-## Goals
+### Goals
 We had to make 3 big goals we would like to complete, and optionally provide stretch goals.  My goals are:
   1. Migrate data from Google Sheets API to SQL Server
   2. Deploy the project to Amazon Web Services (AWS)
@@ -29,7 +29,7 @@ Stretch goals are:
   - Build in estimated calculations to complete a character based on their gear needs and character shard availability rates.
   - Implement a Required Characters indicator and Required Zetas indicator in the squad builder
 
-## Gameplan
+### Gameplan
 After doing research on AWS's services, I've chosen to use Amazon S3 and Amazon CloudFront to host and deploy the Front End, AWS Lambda to deploy the API, and Amazon RDS hold my SQL Server data.
 
 I've created an ERD for the database structure.  For goals 1 and 2, decided that I'm going to build a local version of the SQL Server first, then the API, then make a development build of the front end to make sure it all works as planned.  Once that's all done, I'm going to deploy each piece, using the same order, so that testing will be straightforward.
