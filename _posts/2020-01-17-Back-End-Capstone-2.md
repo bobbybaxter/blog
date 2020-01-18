@@ -2,7 +2,7 @@
 published: true
 title: SQL Server Data Import
 layout: post
-category: programming, Nashville Software School, SWGOH Counters
+category: [programming, Nashville Software School, SWGOH Counters]
 tags: 
 - programming
 - Nashville Software School
